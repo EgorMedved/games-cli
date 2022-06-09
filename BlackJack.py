@@ -8,7 +8,7 @@ class BlackJackDeck(Deck):
     deck = Deck.deck
     random.shuffle(deck)
 
-
+#123
 class Dealer:
     hand = []
 
